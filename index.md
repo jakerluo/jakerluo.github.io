@@ -6,6 +6,7 @@
 
 > 下一代 JavaScript 语法的编译器
 
-[cookie 是什么]({% link _posts/2021-08-26-cookie.md %})
+### [cookie 是什么]({% link _posts/2021-08-26-cookie.md %})
 
 > 用于存储 web 页面的用户信息
+
